@@ -7,5 +7,6 @@ public class TestDemo {
 @Test
 public void Demo() {
 	Reporter.log("Demo was Added", true);
+	Reporter.log("Demo was Added", true);
 }
 }
